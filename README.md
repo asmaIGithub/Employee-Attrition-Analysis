@@ -17,7 +17,6 @@ You can explore the Tableau dashboard by following this [link](https://public.ta
 - [Usage](#usage)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [Collaborators](#collaborators)
 - [Contact](#contact)
 
 ## Introduction 📝
@@ -79,9 +78,7 @@ To run this project locally, follow these steps:
 - **Dash/Plotly**: Web-based dashboard framework for interactive visualizations.
 - **Tableau**: Data visualization tool, used for creating interactive and dynamic visualizations for deeper analysis.
 
-## Collaborators 👥
 
-- [Diptii Waghmare](https://github.com/DiptiWaghmare) - Collaborated on data analysis and visualization.
 
 ## Contact 📧
 
